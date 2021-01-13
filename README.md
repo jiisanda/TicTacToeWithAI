@@ -5,11 +5,11 @@ Understanding Problem...
 
 2. Board Structure
 
-    |   |
+    |     |
     
-    |   |
+    |     |
     
-    |   |
+    |     |
     
 ------------
 
