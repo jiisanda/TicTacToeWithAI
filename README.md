@@ -4,28 +4,6 @@ Understanding Problem...
 1. input for loop
 
 2. Board Structure
-
-    |     |
-    
-    |     |
-    
-    |     |
-    
-------------
-
-    |   |
-    
-    |   |
-    
-    |   |
-    
-------------
-
-    |   |
-    
-    |   |
-    
-    |   |
     
 3. This board is not vacant but there are variables, so we have design in such a way that there are 9 variables...
 
